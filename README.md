@@ -1,7 +1,5 @@
-### Hi there, I am Mohammad Saif 👋
+### Hi there, I'm Mohammad Saif! 👋
 
-<!--
-**mohammadsaif19/mohammadsaif19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like to watch movies and web series
--->
+
