@@ -10,5 +10,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Flutter or Web Development releated issues
 - 📫 How to reach me: [Facebook - @mohammadsaif05](https://www.facebook.com/mohammadsaif05)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I like to watch movies and web series
+- ⚡ Fun fact: I love to listening music.
 
+https://github-readme-stats.vercel.app/api?username=mohammadsaif19&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
