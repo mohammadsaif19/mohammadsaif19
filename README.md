@@ -1,7 +1,7 @@
 ### Ahlan wa Sahlan, I'm Mohammad Saif! 👋
 
 
-Here are some ideas to get you started:
+Here are some information to know about me:
 
 - 🔭 I’m currently working on e-Commerce project
 - 🌱 I’m currently learning Flutter advance
