@@ -4,7 +4,7 @@
 Here is some information to know about me and what I'm doing currently:
 
 - 🧑‍💻 I’m currently working on various official projects.
-- 🌱 Currently, I'm developing my skills at Flutter, Python, NodeJs and so much more...
+- 🌱 Currently, I'm developing my skills at Flutter, React Js, Python, NodeJs and so much more...
 - 🤝 I always like to collaborate with Developers world-wide.
 - 💬 Ask me about Flutter or Rest api's development releated issues.
 - 📫 How to reach me: [Linkedin-@mohammadsaif05](https://www.linkedin.com/in/mohammadsaif05/) and
